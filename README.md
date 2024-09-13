@@ -1,4 +1,4 @@
-# Sistema-Tela-Java-Loja
+# Sistema Tela Java Loja
 
 Projeto criado para o curso de Programação Orientada a Objetos, 2022
 
